@@ -26,9 +26,11 @@ O dashboard foi desenvolvido por [ana_akai@live.com]
 Os arquivos utilizados para o dashboard estão disponíveis na raiz do projeto. Eles incluem:
 
 O arquivo Customer-Churn-Dashboard.pbix, contendo o arquivo do Power BI
+
 O arquivos 02 Churn-Dataset - PTBR.xlsx, contendo os dados utilizados no dashboard
 ## Visualização do Dashboard
 Uma visualização do dashboard está disponível no [Link para o Dashboard Púbico](https://app.powerbi.com/view?r=eyJrIjoiYzkyZGM5M2UtMTA0NC00NWYyLTk3YzMtNjUyZWFkYmY2ZGZiIiwidCI6ImQ1MmQ4NzAyLTZiMjktNGNmMy05MzM4LWEwZWFjOWY2MTM1ZCJ9).
 ## Feedback
 Qualquer feedback é bem-vindo [neste link](https://forms.gle/r2qUUbRMwcRW6q9v7).
-<img src="![image](https://github.com/anakvieira/customerchurn-dashboard-powerbi/assets/86451504/5e793f89-456b-4f24-bfe2-36d4c0fa000f)">
+
+<img src="picture.png">
